@@ -1,1 +1,2 @@
 # ComputerVisionProject
+Developed a system that allows users to control the volume of their Laptop/PC through hand gestures. The system detects and interprets specific hand movements translating them into volume adjustments. Specifically, the system detects the fingertips of the index finger and the thumb and uses the distance between them to adjust the volume of the system. This was an experimental project to explore the usage of Computer Vision with everyday common tasks to improve user convenience and control.
